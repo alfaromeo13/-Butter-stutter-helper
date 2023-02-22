@@ -1,8 +1,8 @@
-Butter (Speech-to-text solution for smoothing stuttering)
+Butter 
 
-My team and I made Butter, which placed us third on the OpenAI Whisper Hackathon
+Our team developed Butter, an AI-based integrated chatbot that provides an innovative speech-to-text solution for people who stutter. With this technology, we placed third in the OpenAI Whisper Hackathon. Butter uses advanced speech-to-text conversion to accurately transcribe live voice recordings, enabling individuals who stutter to communicate more effectively. In addition to transcribing messages, Butter can also answer personal questions about stuttering.
+Butter's state-of-the-art technology utilizes the Whisper API, created by LabLab AI, to intuitively translate speech into written form and omit any unintended interruptions in the flow of speech. Our goal is to empower people who stutter with improved accessibility to communication.
+By delivering accurate and reliable speech-to-text conversion, Butter helps individuals who stutter to communicate more effectively and confidently. Our technology is designed to provide a smoother communication experience and to help those who stutter express themselves more fluently.
 
-Butter is an AI-based integrated chatbot that utilizes specialized speech-to-text conversion to accurately output messages from live voice recordings for individuals that stutter, and answer personal questions regarding stuttering. Butter implements the state-of-the-art Whisper API created by LabLab AI to intuitively translate speech into written form and omit any unintended interruptions in their flow of speech. Our goal is to empower and improve accessibility to communication to users with speech impediments.
-
-link fot demo -> https://lablab.ai/event/openai-whisper-hackathon/Boss/Butter
+demo link -> https://lablab.ai/event/openai-whisper-hackathon/Boss/Butter
 link for hackathon -> https://lablab.ai/event/openai-whisper-hackathon 
