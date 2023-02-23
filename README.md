@@ -7,4 +7,5 @@ Butter's state-of-the-art technology utilizes the Whisper API, created by LabLab
 By delivering accurate and reliable speech-to-text conversion, Butter helps individuals who stutter to communicate more effectively and confidently
 
 demo link -> https://lablab.ai/event/openai-whisper-hackathon/Boss/Butter
+
 hackathon link -> https://lablab.ai/event/openai-whisper-hackathon
